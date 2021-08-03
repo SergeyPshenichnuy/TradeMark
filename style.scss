@@ -249,10 +249,10 @@ body {
       }
     }
     &:before {
-      background-image: url(/img/item-top.svg);
+      background-image: url(../img/item-top.svg);
     }
     &:after {
-      background-image: url(/img/item-bottom.svg);
+      background-image: url(../img/item-bottom.svg);
     }
     &-title {
       font-weight: 600;
