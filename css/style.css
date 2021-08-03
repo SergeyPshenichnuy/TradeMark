@@ -396,14 +396,14 @@ body {
 }
 
 .footer-list-link-vk {
-  background-image: url(/img/vk.svg);
+  background-image: url(../img/vk.svg);
 }
 
 .footer-list-link-fb {
-  background-image: url(/img/F.svg);
+  background-image: url(../img/F.svg);
 }
 
 .footer-list-link-ins {
-  background-image: url(/img/instagram.svg);
+  background-image: url(../img/instagram.svg);
 }
 /*# sourceMappingURL=style.css.map */
