@@ -251,11 +251,11 @@ body {
 }
 
 .collection-man {
-  background-image: url(/img/man.png);
+  background-image: url(../img/man.png);
 }
 
 .collection-woman {
-  background-image: url(/img/woman.png);
+  background-image: url(../img/woman.png);
 }
 
 .collection-title {
