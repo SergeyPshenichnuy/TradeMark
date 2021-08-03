@@ -251,11 +251,11 @@ body {
 }
 
 .collection-man {
-  background-image: url(img/man.png);
+  background-image: url(/img/man.png);
 }
 
 .collection-woman {
-  background-image: url(img/woman.png);
+  background-image: url(/img/woman.png);
 }
 
 .collection-title {
@@ -327,11 +327,11 @@ body {
 }
 
 .product-item:before {
-  background-image: url(img/item-top.svg);
+  background-image: url(/img/item-top.svg);
 }
 
 .product-item:after {
-  background-image: url(img/item-bottom.svg);
+  background-image: url(/img/item-bottom.svg);
 }
 
 .product-item-title {
@@ -396,14 +396,14 @@ body {
 }
 
 .footer-list-link-vk {
-  background-image: url(img/vk.svg);
+  background-image: url(/img/vk.svg);
 }
 
 .footer-list-link-fb {
-  background-image: url(img/F.svg);
+  background-image: url(/img/F.svg);
 }
 
 .footer-list-link-ins {
-  background-image: url(img/instagram.svg);
+  background-image: url(/img/instagram.svg);
 }
 /*# sourceMappingURL=style.css.map */
