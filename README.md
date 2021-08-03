@@ -1,1 +1,1 @@
-#https://sergeypshenichnuy.github.io/TradeMark/
+#https://sergeypshenichnuy.github./TradeMark/
